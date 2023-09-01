@@ -10,9 +10,9 @@
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:develoutrast@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/LUPRb91kkNuf)
-<!-- [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oleksandrfilatov) -->
 <!-- [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593569354792) -->
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ua.linkedin.com/comm/in/oleksandr-filatov-3b485827a)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oleksandrfilatov)
 
 <!-- <div align="right">
   <img src="https://count.getloli.com/get/@:oleksandrfilatov?theme=rule34" />
