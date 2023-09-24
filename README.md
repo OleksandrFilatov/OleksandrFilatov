@@ -13,8 +13,6 @@
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oleksandrfilatov)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KXHez7jd)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ua.linkedin.com/comm/in/oleksandr-filatov-3b485827a)
-[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oleksandrfilatov)
-<!-- [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593569354792) -->
 
 <!-- <div align="right">
   <img src="https://count.getloli.com/get/@:oleksandrfilatov?theme=rule34" />
